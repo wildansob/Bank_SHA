@@ -30,7 +30,7 @@ class OnBoardingPage extends StatelessWidget {
             ],
             options: CarouselOptions(
               height: 331,
-              viewportFraction: 1,
+              // viewportFraction: 1,
               enableInfiniteScroll: false,
             ),
           ),
